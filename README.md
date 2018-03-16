@@ -14,4 +14,12 @@ Before you start the lab, you should first install:
 ## Instruction
 https://www.evernote.com/shard/s8/sh/c69a3ba7-8254-4017-ac79-8dcd7c09de6f/10ef39e3a7d85005e8d2bee32a83d7aa
 
+## Run
+```
+python3+tensorflow+conda
+
+git clone https://github.com/udacity/CarND-Term1-Starter-Kit.git
+cd CarND-Term1-Starter-Kit
+source activate carnd-term1
+```
 
